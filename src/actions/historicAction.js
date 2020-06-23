@@ -13,6 +13,7 @@ const getId = (payload) => {
     xid += 1;
     return xid;
 }
+/*---------------------------------------get History--------------------------------------------------- */
 
 export const getHistory2 = (payload) => {
 
@@ -33,7 +34,7 @@ export function getHistory() {
         dispatch(getHistoryFromApi(res.data));
     }))
 }
-/*---------------------------------------add History---------ADD_History------------------------------------------ */
+/*---------------------------------------add History--------------------------------------------------- */
 export const addHistory2 = (payload) => {
 
     const action = {
