@@ -1,14 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "firstName": "",
-      "lastName": "",
-      "passWord": "",
-      "userName": "",
-      "userMail": "",
-      "userPhone": "",
-      "post": ""
+      "userName": "salim",
+      "userMail": "amri@co.co",
+      "passWord": "clo1987!",
+      "firstName": "salim",
+      "lastName": "amri",
+      "userPhone": "55240423",
+      "userPost": "admin",
+      "id": 1
+    },
+    {
+      "userName": "midou",
+      "userMail": "misou@co.co",
+      "passWord": "azert1235!",
+      "firstName": "ahmed",
+      "lastName": "didou",
+      "userPhone": "25885212",
+      "userPost": "operateur",
+      "id": 3
     }
   ],
   "products": [
