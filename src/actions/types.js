@@ -13,4 +13,4 @@ export const DELETE_PRODUCT = "DELETE_PRODUCT";
 // historic types
 
 export const ADD_HISTORY = "ADD_HISTORY";
-export const DELETE_HISTORY = "DELETE_HISTORY";
+export const GET_HISTORY = "GET_HISTORY";
